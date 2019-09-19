@@ -1,0 +1,7 @@
+D:\Public\Projets\Divers\bittrex\bittrex\bin\Debug\bittrex.exe.config
+D:\Public\Projets\Divers\bittrex\bittrex\bin\Debug\bittrex.exe
+D:\Public\Projets\Divers\bittrex\bittrex\bin\Debug\bittrex.pdb
+D:\Public\Projets\Divers\bittrex\bittrex\bin\Debug\Newtonsoft.Json.dll
+D:\Public\Projets\Divers\bittrex\bittrex\bin\Debug\Newtonsoft.Json.xml
+D:\Public\Projets\Divers\bittrex\bittrex\obj\Debug\bittrex.exe
+D:\Public\Projets\Divers\bittrex\bittrex\obj\Debug\bittrex.pdb
